@@ -1,6 +1,7 @@
 # Doglix
 
 ![Doglix Logo](https://dogflix.com.co/assets/img/logo.png)
+![Doglix Screenshot 1](https://dogflix.com.co/104.jpg)
 
 Doglix es un proyecto de práctica creado para familiarizarse con JavaScript y divertirse un poco. Está inspirado en Netflix, pero con un tema de perros 🐶🐶. El proyecto utiliza tecnologías como JavaScript vanilla, funciones asíncronas (API), webpack, Handlebars, SAS y sigue la metodología BEM para estilos CSS.
 
