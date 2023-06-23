@@ -2,7 +2,7 @@
 
 You can see example here: 🔗[Doglix](https://dogflix.com.co/) 🐶🐶
 
-![Doglix Screenshot 1](https://dogflix.com.co/104.jpg)
+![Doglix Screenshot 1](https://dogflix.com.co/106.jpg)
 
 Doglix es un proyecto de práctica creado para familiarizarse con JavaScript y divertirse un poco. Está inspirado en Netflix, pero con un tema de perros 🐶🐶🐶. El proyecto utiliza tecnologías como JavaScript vanilla, funciones asíncronas (API), webpack, Handlebars, SAS y sigue la metodología BEM para estilos CSS.
 
@@ -15,8 +15,8 @@ Doglix es un proyecto de práctica creado para familiarizarse con JavaScript y d
 
 ## Capturas de pantalla
 
-![Doglix Screenshot 1](https://dogflix.com.co/104.jpg)
-![Doglix Screenshot 2](https://dogflix.com.co/105.jpg)
+![Doglix Screenshot 1](https://dogflix.com.co/106.jpg)
+![Doglix Screenshot 2](https://dogflix.com.co/107.jpg)
 
 ## Tecnologías utilizadas
 
