@@ -1,6 +1,6 @@
 # Doglix
 
-You can see example here: 🔗[Doglix](https://dogflix.com.co/)
+You can see example here: 🔗[Doglix](https://dogflix.com.co/) 🐶🐶
 
 ![Doglix Screenshot 1](https://dogflix.com.co/104.jpg)
 
