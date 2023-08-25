@@ -1,0 +1,247 @@
+{
+  "peliculas": [
+
+
+    {
+      "nombre": "El casa de papel ",
+      "descripcion": "Un perro astuto lidera un equipo de delincuentes caninos en un audaz robo a un banco.",
+      "genero": "Crimen",
+      "imagen": "./assets/img/movies-hero-casapapel.jpg",
+      "logomovie": "./assets/img/casapapel.png",
+      "thumbnail": "./assets/img/movies-thumbnail-casa-papel.jpg",
+      "category": "populares"
+    },
+ 
+    {
+      "nombre": "Can Wars: El Imperio canino",
+      "descripcion": "Una manada de perros liderada por un perro valiente debe luchar contra un ejército de malvados chihuahuas que quieren dominar el mundo.",
+      "genero": "Acción",
+      "imagen": "./assets/img/hero-starWars.jpg",
+      "logomovie": "./assets/img/logoCan.png",
+      "thumbnail": "./assets/img/thumbnails-starWars.jpg",
+      "category": "populares"
+    },
+    {
+      "nombre": "El Último Canino",
+      "descripcion": "En un mundo post-apocalíptico, un perro solitario debe enfrentar peligros y desafíos para sobrevivir en un ambiente hostil.",
+      "genero": "Aventura",
+      "imagen": "./assets/img/hero-ultimocan.jpg",
+      "logomovie": "./assets/img/tm.png",
+      "thumbnail": "./assets/img/thumbnails-ultmcan.jpg",
+      "category": "populares"
+    },
+    {
+      "nombre": "Los Sabios",
+      "descripcion": "Tres perros con habilidades especiales se unen para resolver misterios y detener a un villano que amenaza la paz del mundo canino.",
+      "genero": "Aventura",
+      "imagen": "./assets/img/hero-sabios.jpg",
+      "logomovie": "./assets/img/sabios.png",
+      "thumbnail": "./assets/img/thumbnails-sabios.jpg",
+ 
+      "category": "populares"
+    },
+    {
+      "nombre": "La Bella y el Can",
+      "descripcion": "Una joven se enamora de un perro encantado y juntos deben luchar contra la magia oscura que los separa.",
+      "genero": "Romance",
+      "imagen": "./assets/img/hero-bella-bestia.jpg",
+      "logomovie": "./assets/img/disney.png",
+      "thumbnail": "./assets/img/thumbnails-best.jpg",
+      "category": "populares"
+    },
+   
+
+    {
+      "nombre": "Perros de Negro",
+      "descripcion": "Dos perros trabajan en una compañía secreta para capturar alienígenas que amenazan la Tierra.",
+      "genero": "Ciencia ficción",
+      "imagen": "./assets/img/hero-meInblackjpg.jpg",
+      "logomovie": "./assets/img/dib.png",
+      "thumbnail": "./assets/img/thumbnails-mib.jpg",
+      "category": "populares"
+    },
+
+
+
+
+
+
+
+    {
+      "nombre": "Caninos en la Tormenta",
+      "descripcion": "Un grupo de perros valientes luchan por sobrevivir y proteger a sus dueños en medio de una terrible tormenta.",
+      "genero": "Drama",
+      "imagen": "./assets/img/tormenta-movie.jpg",
+      "logomovie": "./assets/img/tormenta.png",
+      "thumbnail": "./assets/img/movies-thumbnail-tormenta.jpg",
+      "category": "populares"
+    },
+     { 
+    "nombre": "Los Perros del Rey Arturo",
+    "descripcion": "Un perro labrador se convierte en el mejor amigo del rey Arturo y lo ayuda a enfrentar peligros y desafíos.",
+    "genero": "Aventura",
+    "imagen": "./assets/img/movies-hero-reyArturo.jpg",
+    "logomovie": "./assets/img/rey.png",
+    "thumbnail": "./assets/img/movies-thumbnail-rey.jpg",
+    "category": "populares"
+  },
+  {
+    "nombre": "stray dogs",
+    "descripcion": "Dos perros callejeros descubren un gran talento escondido y se embarcan en una aventura por volverse famosos.",
+    "genero": "Comedia",
+    "imagen": "./assets/img/hero-stray-doggy.jpg",
+    "logomovie": "./assets/img/straydogs.png",
+    "thumbnail": "./assets/img/hero-meInblackjpg-stray-thumbnails.jpg",
+    "category": "populares"
+  },
+  {
+    "nombre": "El Cazador de Perros",
+    "descripcion": "Un cazador de recompensas se dedica a capturar perros callejeros y llevarlos a la perrera local.",
+    "genero": "Acción",
+    "imagen": "./assets/img/movies-hero-bullDog.jpg",
+    "logomovie": "./assets/img/bg-logo.png",
+    "thumbnail": "./assets/img/movies-thumbnail-cazador.jpg",
+    "category": "populares"
+  },
+  {
+    "nombre": "The Pawsfather",
+    "descripcion": "Es una emocionante película que nos sumerge en el mundo del crimen organizado canino, esta historia nos lleva a un mundo paralelo donde los perros han establecido su propia jerarquía criminal.",
+    "genero": "Drama",
+    "imagen": "./assets/img/padrino-hero-img.jpg",
+    "logomovie": "./assets/img/padrino.png",
+    "thumbnail": "./assets/img/padrino-thumbnail.jpg",
+    "category": "tendencias"
+  },
+  {
+    "nombre": "El Canino Viste a la Moda",
+    "descripcion": " Es una película divertida y elegante que toma inspiración, Ambientada en el glamoroso mundo de la moda canina, nos sumergimos en una historia llena de estilo y enredos.",
+    "genero": "Moda",
+    "imagen": "./assets/img/movies-hero-box-moda.jpg",
+    "logomovie": "./assets/img/vistemoda.png",
+    "thumbnail": "./assets/img/movies-thumbnail-moda.jpg",
+    "category": "tendencias"
+  },
+  {
+    "nombre": "CANULK",
+    "descripcion": "En un tranquilo pueblo suburbano, un experimento científico secreto sale mal y expone a un valiente perro llamado Damian a una inyección de un suero experimental.",
+    "genero": "Ciencia ficción",
+    "imagen": "./assets/img/movies-hero-hulk.jpg",
+    "logomovie": "./assets/img/canaThulk.png",
+    "thumbnail": "./assets/img/movies-thumbnail-hulk.jpg",
+    "category": "tendencias"
+  },
+  {
+    "nombre": "Husky en Pandora",
+    "descripcion": "En el mágico mundo de Pandora, un perro descubre una conexión especial con la naturaleza y se convierte en el protector de un valioso tesoro que podría salvar el planeta.",
+    "genero": "Fantasía",
+    "imagen": "./assets/img/movies-hero-avatar.jpg",
+    "logomovie": "./assets/img/avatar.png",
+    "thumbnail": "./assets/img/movies-thumbnail-avatar.jpg",
+    "category": "tendencias"
+  },
+
+
+  {
+    "nombre": "Perríx: El Elegido de la Realidad",
+    "descripcion": "Un perro callejero llamado Perríx descubre que vive en una simulación controlada por máquinas y se convierte en el héroe canino que lucha por liberar a sus compañeros y desafiar la realidad.",
+    "genero": "Ciencia ficción",
+    "imagen": "./assets/img/movies-hero-matrix.jpg",
+    "logomovie": "./assets/img/perrix.png",
+    "thumbnail": "./assets/img/movies-thumbnail-matrix.jpg",
+    "category": "tendencias"
+  },
+
+
+  {
+    "nombre": "El Titanic: Una Historia de Cola y Agua",
+    "descripcion": "Un intrépido perro embarca en el famoso trasatlántico Titanic y, junto a su fiel compañero humano, lucha por sobrevivir al trágico naufragio y encontrar un camino a casa.",
+    "genero": "Drama",
+    "imagen": "./assets/img/movies-hero-titanic.jpg",
+    "logomovie": "./assets/img/titanic.png",
+    "thumbnail": "./assets/img/movies-thumbnail-titanic.jpg",
+    "category": "tendencias"
+  },
+  
+  
+  
+  {
+    "nombre": "CANMAX",
+    "descripcion": "En un mundo postapocalíptico, donde la humanidad ha sido devastada y la supervivencia es una lucha diaria, un perro solitario llamado Max se convierte en el último rayo de esperanza. ",
+    "genero": "Ciencia ficción",
+    "imagen": "./assets/img/movies-hero-canmax.jpg",
+    "logomovie": "./assets/img/canmax.png",
+    "thumbnail": "./assets/img/movies-thumbnail-canmax.jpg",
+    "category": "taquilleras"
+
+  }
+
+
+  ,
+  
+  
+  {
+    "nombre": "Reel Steel Acero Salvaje",
+    "descripcion": "Es una emocionante película protagonizada por Atom, un robot boxeador, que te sumerge en un mundo futurista donde los combates de boxeo son protagonizados por máquinas. La historia sigue la travesía de Atom, un robot de aspecto modesto pero con un gran corazón, y su dueño Charlie Kenton, un exboxeador en apuros.",
+    "genero": "Ciencia ficción",
+    "imagen": "./assets/img/movies-hero-reelsteel.jpg",
+    "logomovie": "./assets/img/realsteel2.png",
+    "thumbnail": "./assets/img/movies-thumbnail-reesteel.jpg",
+    "category": "taquilleras"
+
+  }
+
+
+  ,
+  
+  
+  {
+    "nombre": "Top Dogs: Pawsome Pilots",
+    "descripcion": "Es una emocionante película que sigue la historia de Loto, un intrépido perro con una pasión desbordante por volar. En un mundo donde los perros han adquirido habilidades de vuelo y se han unido a una fuerza aérea canina especializada, Loto se esfuerza por convertirse en uno de los mejores pilotos de la élite conocida como los Top Dogs.",
+    "genero": "Ciencia ficción",
+    "imagen": "./assets/img/movies-hero-topgun.jpg",
+    "logomovie": "./assets/img/topgun.png",
+    "thumbnail": "./assets/img/movies-thumbnail-topgun.jpg",
+    "category": "taquilleras"
+
+  }
+
+
+  ,
+  
+  
+  {
+    "nombre": "Dogboy: Hound of Darkness",
+    "descripcion": "Cuenta la historia de virus, un perro valiente y leal que se encuentra en un mundo donde criaturas sobrenaturales y seres místicos coexisten con los humanos. Durante un extraño incidente, virus se ve imbuido con poderes oscuros y se convierte en, un perro con habilidades sobrenaturales y el deber de proteger al mundo de las fuerzas malignas que amenazan con destruirlo.",
+    "imagen": "./assets/img/movies-hero-hellboy.jpg",
+    "logomovie": "./assets/img/hellboy.png",
+    "thumbnail": "./assets/img/movies-thumbnail-dogboy.jpg",
+    "category": "taquilleras"
+
+  }
+
+
+  ,
+  
+  
+  {
+    "nombre": "Gladiador",
+    "descripcion": "Es una cautivadora película protagonizada por un valiente perro llamado Rex. Ambientada en la época romana, la historia sigue las increíbles aventuras de Rex, un canino fiel que se convierte en un gladiador en el famoso Coliseo de Roma.",
+    "genero": "Ciencia ficción",
+    "imagen": "./assets/img/movies-hero-gladiador.jpg",
+    "logomovie": "./assets/img/gladiador.png",
+    "thumbnail": "./assets/img/movies-thumbnail-gladiador.jpg",
+    "category": "taquilleras"
+
+  },
+  {
+    "nombre": "El Último Samurai Canino",
+    "descripcion": " Narra una historia épica y conmovedora ambientada en el Japón feudal. En un mundo donde los perros son respetados y valorados como guardianes leales, seguimos los pasos de Hachi, un noble perro samurái de raza Husky.",
+    "genero": "Ciencia ficción",
+    "imagen": "./assets/img/movies-hero-samurai.jpg",
+    "logomovie": "./assets/img/samurai.png",
+    "thumbnail": "./assets/img/movies-thumbnail-samurai.jpg",
+    "category": "taquilleras"
+
+  }
+      ]
+}
