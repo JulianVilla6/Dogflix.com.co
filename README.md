@@ -1,47 +1,44 @@
 # Doglix
 
-You can see example here: 🔗[Doglix](https://dogflix.com.co/) 🐶🐶
+You can see an example here: [Doglix](https://dogflix.com.co/) 🐶🐶
 
 ![Doglix Screenshot 1](https://dogflix.com.co/106.jpg)
 
-Doglix es un proyecto de práctica creado para familiarizarse con JavaScript y divertirse un poco. Está inspirado en Netflix, pero con un tema de perros 🐶🐶🐶. El proyecto utiliza tecnologías como JavaScript vanilla, funciones asíncronas (API), webpack, Handlebars, SAS y sigue la metodología BEM para estilos CSS.
+**Doglix** is a practice project created to get familiar with JavaScript and have a bit of fun. It's inspired by Netflix but with a dog theme 🐶🐶🐶. The project utilizes technologies like vanilla JavaScript, asynchronous functions (API), webpack, Handlebars, SASS, and follows the BEM methodology for CSS.
 
-## Características
+## Features
 
-- Visualización de películas y series relacionadas con perros.
-- Interfaz de usuario intuitiva y fácil de usar.
-- Uso de una API para obtener datos sobre películas y series de perros.
-- Diseño responsive para adaptarse a diferentes tamaños de pantalla.
+- Browse movies and series related to dogs.
+- Intuitive and user-friendly interface.
+- Uses an API to fetch data about dog-related movies and series.
+- Responsive design to adapt to different screen sizes.
 
-## Capturas de pantalla
+## Screenshots
 
 ![Doglix Screenshot 1](https://dogflix.com.co/106.jpg)
 ![Doglix Screenshot 2](https://dogflix.com.co/107.jpg)
 
-## Tecnologías utilizadas
+## Technologies Used
 
-- JavaScript vanilla
+- Vanilla JavaScript
 - Async functions (API) - Simulated
 - Webpack
 - Handlebars
-- SAS
-- BlueBillow AI (para retoque digital de imágenes)
+- SASS
+- BlueBillow AI (for image retouching)
 
-## Uso
+## Usage
 
-Una vez que hayas abierto el proyecto en tu navegador, podrás navegar y ver  películas y series relacionadas con perros. 
-Explora las diferentes categorías y disfruta del contenido.
+Once you've opened the project in your browser, you can navigate and view movies and series related to dogs. Explore different categories and enjoy the content.
 
-## Ejemplo
+## Example
 
-Puedes visitar [Doglix](https://dogflix.com.co/) para ver una versión en vivo del proyecto.
+You can visit [Doglix](https://dogflix.com.co/) to see a live version of the project.
 
+## Credits
 
-## Créditos
+- Author: Julian Villamizar
 
-- Autor: Julian Villamizar
+## License
 
-
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+This project is under the [MIT License](https://opensource.org/licenses/MIT).
